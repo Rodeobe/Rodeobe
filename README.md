@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rodeobe
 - 👀 I’m interested in civil engineering, renewable energy
-- 🦷 Working together with [my wife](https://www.fienjonnaert.be) on a [bruxism program](https://www.spineo.org) against teeth grinding
+- 🦷 Working together with [my wife](https://www.fienjonnaert.be) on a [bruxism program](https://www.spineo.org) against teeth grinding. In preparation, I created an [online overview of bruxism remedies](http://cureteethgrinding.com/)
 - 🌱 I’m currently learning how to manage data sets in Github
 - 📫 How to reach me: Twitter @MaartenDen
 
